@@ -1,0 +1,10 @@
+# Package files
+*.tar.xz
+*.tar.gz
+pkg
+src
+
+# Vim files
+*.un~
+*.swp
+
